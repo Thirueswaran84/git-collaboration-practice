@@ -30,9 +30,13 @@ Team members inspect the changes, provide feedback, and approve them.
 ### Step 8: Merge
 Merge approved changes into the main branch.
 
+
 ## 3. Best Practices
+
 - Keep commits small and meaningful.
+  - Example: `docs: add Git workflow guide`
 - Use descriptive branch names.
+  - Example: `feature/add-workflow-guide`
 - Never commit passwords or sensitive information.
 - Review code before merging.
 - Keep the main branch stable.
